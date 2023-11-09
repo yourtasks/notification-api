@@ -1,0 +1,17 @@
+{
+    "name": "Notification API",
+    "short_name": "Notify",
+    "theme_color": "#0284c7",
+    "background_color": "#0284c7",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+      {
+        "src": "/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
